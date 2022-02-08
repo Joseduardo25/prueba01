@@ -1,0 +1,21 @@
+.color {
+  background-color: red;
+}
+
+.titulo {
+  background-color: blue;
+  transition: all 3000ms;
+  -webkit-transition: all 3000ms;
+  -moz-transition: all 3000ms;
+  -ms-transition: all 3000ms;
+  -o-transition: all 3000ms;
+  transform: ;
+  -webkit-transform: ;
+  -moz-transform: ;
+  -ms-transform: ;
+  -o-transform: ;
+}
+
+.triangulo {
+  background-color: yellow;
+}
